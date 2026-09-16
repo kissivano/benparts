@@ -5,6 +5,7 @@ import About from "./About";
 import Contact from "./Contact";
 import BigSlider from "./BigSlider";
 import Footer from "./Footer";
+import FacebookBubble from "./FacebookBubble";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Contact />
         <Footer />
       </main>
+      <FacebookBubble />
     </>
   );
 }
