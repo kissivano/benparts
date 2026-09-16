@@ -65,7 +65,7 @@ function Header() {
           </a>
 
           <a
-            href="tel:+36707799745"
+            href="tel:+36702222595"
             className="mt-2 rounded-full bg-black px-5 py-3 text-white"
           >
             Kapcsolat
