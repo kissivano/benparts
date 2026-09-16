@@ -31,7 +31,7 @@ function Contact() {
 
               <div>
                 <p className="text-sm text-black/50">Telefon</p>
-                <p className="font-medium">+36707799745</p>
+                <p className="font-medium">+36702222595</p>
               </div>
             </a>
 
@@ -45,7 +45,7 @@ function Contact() {
 
               <div>
                 <p className="text-sm text-black/50">Email</p>
-                <p className="font-medium">bentradepartners@gmail.com</p>
+                <p className="font-medium">benparts777@gmail.com</p>
               </div>
             </a>
 

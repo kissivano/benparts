@@ -45,17 +45,17 @@ function Footer() {
 
             <div className="flex flex-col gap-3 text-white/70">
               <a
-                href="tel:+36707799745"
+                href="tel:+36702222595"
                 className="w-fit transition hover:text-white"
               >
-                +36707799745
+                +36702222595
               </a>
 
               <a
-                href="mailto:hello@benparts.hu"
+                href="mailto:benparts777@gmail.com"
                 className="w-fit transition hover:text-white"
               >
-                bentradepartners@gmail.com
+                benparts777@gmail.com
               </a>
 
               <p>Pomáz, Magyarország</p>
