@@ -23,7 +23,7 @@ function Hero() {
             <span className="bg-gradient-to-r from-[#00AEEF] via-[#1C69D4] to-[#E10600] bg-clip-text text-transparent">
               BMW
             </span>{" "}
-            ÚJ ÉS HASZNÁLT ALKATRÉSZEK!
+            GYÁRI HASZNÁLT ALKATRÉSZEK!
           </h1>
 
           <p className="mt-6 max-w-2xl text-base leading-7 text-white/75 md:text-lg">
